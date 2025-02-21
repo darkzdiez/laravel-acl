@@ -17,17 +17,17 @@
     "homepage": "https://github.com/darkzdiez/laravel-acl",
     "require": {
         "php": "^8.2",
-        "illuminate/auth": "^11.0",
-        "illuminate/container": "^11.0",
-        "illuminate/support": "^11.0",
-        "illuminate/database": "^11.0",
+        "illuminate/auth": "^11.0|^12.0",
+        "illuminate/container": "^11.0|^12.0",
+        "illuminate/support": "^11.0|^12.0",
+        "illuminate/database": "^11.0|^12.0",
         "facade/ignition-contracts": "^1.0|^2.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^9.3",
-        "phpunit/phpunit": "^11.3",
-        "predis/predis": "^2.2",
-        "friendsofphp/php-cs-fixer": "^3.62"
+        "orchestra/testbench": "^9.11",
+        "phpunit/phpunit": "^11.5",
+        "predis/predis": "^2.3",
+        "friendsofphp/php-cs-fixer": "^3.69"
     },
     "suggest": {
         "facade/igntion": "Needed to be able to use the ignition solutions for laravel-acl"
