@@ -17,10 +17,10 @@
     "homepage": "https://github.com/darkzdiez/laravel-acl",
     "require": {
         "php": "^8.2",
-        "illuminate/auth": "^11.0|^12.0",
-        "illuminate/container": "^11.0|^12.0",
-        "illuminate/support": "^11.0|^12.0",
-        "illuminate/database": "^11.0|^12.0",
+        "illuminate/auth": "^11.0|^12.0|^13.0",
+        "illuminate/container": "^11.0|^12.0|^13.0",
+        "illuminate/support": "^11.0|^12.0|^13.0",
+        "illuminate/database": "^11.0|^12.0|^13.0",
         "facade/ignition-contracts": "^1.0|^2.0"
     },
     "require-dev": {
